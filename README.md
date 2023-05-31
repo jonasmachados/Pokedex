@@ -1,29 +1,30 @@
-<h1 align="center">Pokedex </h1>
+# Pokédex App
 
-<br>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/67349235/208665696-661d1b22-5cab-4f92-bea1-5c8b872c2c1b.png">
-</div>
+![Pokédex App](https://user-images.githubusercontent.com/67349235/208665696-661d1b22-5cab-4f92-bea1-5c8b872c2c1b.png)
 
-<br>
-<h2>About</h2>
+The Pokédex App is a web application that allows users to explore information about Pokémon by consuming the Pokémon API (https://pokeapi.co/api). It provides a comprehensive list of 1st generation Pokémon and allows users to search for Pokémon by type.
 
-App that consume API of Pokemon (https://pokeapi.co/api).<br>
-This App get a list of all 1st generation pokemons and specifying the pokemon by type.
+The app features a user-friendly interface that presents detailed information about each Pokémon, including their abilities, types, stats, and more. Users can easily navigate through the Pokémon catalog and discover new Pokémon based on their preferences.
 
-<h2>Technologies used</h2>
- <h3>Front-end </h3>
- <ul>
-	<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a> :  is the standard markup language for documents designed to be displayed in a web browser. </li>
-	<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS</a> : is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. </li>
-	<li><a href="https://developer.mozilla.org/ptBR/docs/Web/JavaScript"> JavaScript</a> : is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. </li>
-	<li><a href="https://nodejs.org/"> Node </a> : As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. </li>
-	<li><a href="https://code.visualstudio.com/"> VS Code</a> : is a source-code editor made by Microsoft for Windows. </li>
-</ul>
+The Pokédex App is a valuable resource for Pokémon enthusiasts, offering an immersive experience to explore and learn about their favorite Pokémon. To try out the app and access the complete Pokémon catalog, visit the Pokédex App GitHub repository.
 
-<br><br>
-Run application:
+## Technologies Used
 
-```
- http-server ./
-```
+- HTML
+- CSS
+- JavaScript
+- Node.js
+
+## How to Run the Application
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the following command to start the application:
+
+http-server ./
+
+4. Open your web browser and access the application at `http://localhost:8080`.
+
+Feel free to explore the various Pokémon and their details!
+
+For more information, please refer to the [project repository](https://github.com/jonasmachados/framer-motion).
